@@ -80,10 +80,6 @@ run the server
 ```
 
 
-## Authors
-
-- [@Python-genius900](https://www.github.com/Python-genius900)
-
 
 ## Acknowledgements
 - [GeeksforGeeks](https://www.geeksforgeeks.org/python-django/)
